@@ -15,7 +15,7 @@
     "firebase": "^8.8.1",
     "fontawesome": "^5.6.3",
     "jquery": "^3.6.0",
-    "nodemon": "^2.0.12",
+    "nodemon": "^2.0.20",
     "particle-bg": "^0.5.0",
     "react": "^17.0.2",
     "react-big-bang-star-field": "^1.0.10",
